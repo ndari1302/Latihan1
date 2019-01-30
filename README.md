@@ -1,4 +1,4 @@
-# Latihan1
+## Latihan1
 # Tutorial Penggunaan Git
 
 **Apa itu Git?**
